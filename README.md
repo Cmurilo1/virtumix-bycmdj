@@ -10,3 +10,5 @@ Conecte este repositório na Vercel — sem build, é HTML puro.
 ## Requisitos
 - Chrome ou Edge (Web MIDI + Web Audio)
 - HTTPS (a Vercel já entrega)
+https://virtumix-bycmdj.vercel.app
+teste agora!
